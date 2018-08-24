@@ -12,10 +12,11 @@ As Microsoft plans to shut down Wunderlist and there is no Microsoft To-Do app f
 I used the following command:
 
 ```bash
-$ nativefier --name "To-Do" -p "OSX" --counter -i ./To-Do --single-instance --width=880 --height=630 --min-width=600 --min-height=330 --internal-urls=false --disable-context-menu https://todo.microsoft.com/login
+$ nativefier --name "To-Do" -p "OSX" --counter -i ./To-Do --single-instance --width=880 --height=630 --min-width=600 --min-height=330 --internal-urls=false --disable-context-menu --inject ./style.css https://todo.microsoft.com/login
 ```
 
 ## Features
 
 - [x] Context menu
 - [x] Native notifications w/ counter
+- [x] Hide "Get the app" button

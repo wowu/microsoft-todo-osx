@@ -1,0 +1,1 @@
+nativefier --name "To-Do" -p "OSX" --counter -i ./To-Do --single-instance --width=880 --height=630 --min-width=600 --min-height=330 --internal-urls=false --disable-context-menu --inject ./style.css https://todo.microsoft.com/login

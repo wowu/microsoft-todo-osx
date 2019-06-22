@@ -1,3 +1,7 @@
+## ⚠️ Microsoft has finally launched the MacOS version, you can download it from Mac App Store [here](https://apps.apple.com/app/microsoft-to-do/id1274495053?mt=12&utm_source=Direct). Thanks everyone for using this wrapper 🙌
+
+---
+
 # Microsoft To-Do app for MacOS
 
 As Microsoft plans to shut down Wunderlist and there is no Microsoft To-Do app for MacOS yet, I've created one using [nativefier](https://github.com/gfpacheco/Nativefier).
